@@ -127,6 +127,17 @@ main h3{
 }
 
 
+/*FORM SECTION*/
+form {
+    max-width: 100%;
+    border: 2x; inset: rgba(163, 163, 163, 0.6);
+    padding: 15px;
+
+    /*Set padding, border, width to form section*/
+}
+
+
+
 
 
 

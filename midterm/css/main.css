@@ -15,6 +15,34 @@ h1, h2, h3 {
     /*Set normal font-weight for h1, h2 and h3 tags*/
 }
 
+/*......................................................................................................................*/
+
+#menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    /*Set style for menu, including list-style, padding, and margin*/
+}
+
+a{
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    padding: 1px;
+    /*set display style for the navigation menu, including padding and flexbox*/
+}
+
+nav ul li {
+    display: flex;
+    padding: 1px;
+    /*set display style */
+}
+
+
+
+
 
 
 

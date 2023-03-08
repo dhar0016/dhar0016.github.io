@@ -136,6 +136,12 @@ form {
     /*Set padding, border, width to form section*/
 }
 
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    /*Add style to labels*/
+}
 
 
 

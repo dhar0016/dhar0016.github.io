@@ -39,9 +39,14 @@ nav ul li:last-child {
     margin-right:0;
     /* Set Margin right to 0 for the last item in the navigation menu*/
     
+}
 
+nav ul li a {
+    color: white;
+    /*Set white font color for navigation menu */
 }
-}
+
+
 
 
 

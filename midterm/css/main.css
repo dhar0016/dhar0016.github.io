@@ -46,6 +46,14 @@ nav ul li a {
     /*Set white font color for navigation menu */
 }
 
+.container {
+    width: 720px;
+    height: fit-content;
+    margin: 0 auto;
+    background-color: #d4e9e7;
+
+}
+
 
 
 

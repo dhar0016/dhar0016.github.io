@@ -35,6 +35,12 @@ nav ul li {
     /*Set style for each list item in the navigation menu, including width, text-align, and padding*/
 }
 
+nav ul li:last-child {
+    margin-right:0;
+    
+
+}
+}
 
 
 

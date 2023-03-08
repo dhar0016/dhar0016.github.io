@@ -143,6 +143,12 @@ label {
     /*Add style to labels*/
 }
 
+input,
+textarea {
+    display: block;
+    width: 100%;
+    /*Add text typing area to form section*/
+}
 
 
 

@@ -29,7 +29,7 @@ a {
 }
 
 nav ul li {
-    width: 80%;
+    width: 100%;
     text-align: center;
     padding: 10px;
     /*Set style for each list item in the navigation menu, including width, text-align, and padding*/

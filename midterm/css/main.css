@@ -64,6 +64,19 @@ h1 {
     /*Set styles for the header element including position, color and text align*/
 }
 
+.banner {
+    position: relative;
+    padding: 0;
+    margin: 0 auto;
+    /*set the position element for banner*/
+
+}
+
+
+
+
+
+
 
 
 

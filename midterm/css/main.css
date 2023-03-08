@@ -72,6 +72,12 @@ h1 {
 
 }
 
+#menu li:not(:first-child):not(:last-child) {
+    display: inline-block;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    /*Set styles for menu items in the navigation menu, including border and text transform*/
+}
 
 
 

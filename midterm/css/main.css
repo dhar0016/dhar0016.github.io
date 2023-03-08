@@ -113,6 +113,18 @@ main h3{
     /*set font weight to main section h3 heading*/
 }
 
+#main-img{
+    background-image: url("../images/lone-starfish.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 200px;
+    float: left; /*Float to right to left*/
+    margin-right: 10px; /*Add some margin to separate the image and text*/
+
+    /*Set styles for banner element */
+
+}
 
 
 

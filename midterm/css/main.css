@@ -80,6 +80,12 @@ h1 {
 }
 
 
+#menu li:last-child {
+    border-right: none;
+    /*Set border-right to none for the item in the nav menu*/
+
+
+}
 
 .banner {
     background-image: url("../images/lone-starfish-wide.jpg");

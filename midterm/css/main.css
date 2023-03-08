@@ -51,6 +51,7 @@ nav ul li a {
     height: fit-content;
     margin: 0 auto;
     background-color: #d4e9e7;
+    /*Set style for the container element including width, height, margin and bg color*/
 
 }
 

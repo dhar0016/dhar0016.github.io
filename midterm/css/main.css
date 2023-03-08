@@ -168,6 +168,15 @@ textarea{
     /*Radio Box grouping and alignment*/
 }
 
+footer{
+    height: 100px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 8px;
+    font-weight: 600;
+    /*Set footer position, padding, text weight*/
+}
 
 
 

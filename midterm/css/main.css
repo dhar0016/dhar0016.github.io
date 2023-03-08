@@ -68,7 +68,7 @@ h1 {
     position: relative;
     padding: 0;
     margin: 0 auto;
-    /*set the position element for banner*/
+    /*set the position element,padding and margin for banner*/
 
 }
 
@@ -80,6 +80,21 @@ h1 {
 }
 
 
+
+.banner {
+    background-image: url("../images/lone-starfish-wide.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*set the style for banner - position and align for bg image and text*/
+
+
+}
 
 
 

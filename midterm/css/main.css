@@ -10,7 +10,9 @@ body {
     background-color: cadetblue;
 }
 
-h1, h2, h3 {
+h1, 
+h2, 
+h3 {
     font-weight: normal;
     /*Set normal font-weight for h1, h2 and h3 tags*/
 }
@@ -28,6 +30,12 @@ a {
     /*Set style for links*/
 }
 
+nav ul {
+    display: flex;
+    padding: 1px;
+    /*set horizontal lines for nav menu*/
+}
+
 nav ul li {
     width: 100%;
     text-align: center;
@@ -36,7 +44,7 @@ nav ul li {
 }
 
 nav ul li:last-child {
-    margin-right:0;
+    margin-right: 0;
     /* Set Margin right to 0 for the last item in the navigation menu*/
     
 }

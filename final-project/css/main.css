@@ -17,3 +17,19 @@ footer {
 .container {
     padding: 10px;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/*Navigation*/
+header {
+    background-color: #222;
+
+}
+
+nav {
+    color: ;
+}

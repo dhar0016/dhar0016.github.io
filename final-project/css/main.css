@@ -31,5 +31,9 @@ header {
 }
 
 nav {
-    color: ;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc(100%-20px);
 }

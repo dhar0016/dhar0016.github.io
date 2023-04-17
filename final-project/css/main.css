@@ -49,3 +49,25 @@ nav ul {
     width: 100%;
 }
 
+nav ul li {
+    width: 100%;
+
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    width: 100%;
+}
+
+.search-container {
+    width: 100%;
+}
+
+.search-container input[type="text"] {
+    flex: 1;
+    padding: 8px;
+    border: none;
+    font-size: 17px;
+}

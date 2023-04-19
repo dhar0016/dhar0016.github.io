@@ -187,7 +187,10 @@ nav a {
 .about-img {
 /*Set the image width equal to parent container width*/
 width: 100%;
-
+/*Aspect ratio of the image*/
+height: auto;
+/*Remove any extra space */
+display: block;
 }
 
 

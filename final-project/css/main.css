@@ -202,7 +202,20 @@ display: block;
     width: calc(100% - 20px);
 }
 
+.service.img {
+    /*Set the image to be equal to the parent container's width*/
+    width: 100%;
+    /*Aspect ration of the img*/
+    height: auto;
+    /*Remove any extra spaces*/
+    display: block;
+}
 
+.service-section h2 {
+    font-size: 3rem;
+    margin: 1.5rem 0;
+    font-weight: 600;
+}
 
 
 

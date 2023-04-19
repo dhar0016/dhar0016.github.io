@@ -219,7 +219,8 @@ display: block;
 }
 
 
-.service { 
+.service,
+.Service { 
     background-color: #ffe6ac;
     margin-bottom: 1.5rem;
 }
@@ -588,5 +589,16 @@ nav a {
     justify-content: center;
 
 }
+
+.about-content {
+    grid-template-columns: auto auto;
+    margin: 1.5rem 0;
+}
+
+.about-text {
+    margin-left: 1.5rem;
+}
+
+/************************ TEAM SECTION**************************************8/
 
 

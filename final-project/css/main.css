@@ -471,3 +471,23 @@ footer .container p:first-child {
     }
     
 }
+
+/*Media query for screen sizes of 760px and above*/
+@media screen and (min-width: 760px) {
+    body {
+        margin: 8px;
+    }
+
+    nav,
+    .hero-text,
+    .container {
+        padding: 1.5rem;
+    }
+
+    .container {
+        max-width: 1200px;
+        padding: 0%;
+    }
+
+    
+}

@@ -105,6 +105,32 @@ nav a {
     background-color: #c78c06;
 }
 
+.nav-item:hover a {
+    color: #222;
+}
+
+
+/*
+#logo {
+    background-color: #c78c06;
+}
+*/
+
+#logo a img {
+    width: 100%;
+    max-width: 130px;
+    height: auto;
+
+}
+
+/*Banner Section*/
+.hero {
+    background-image: url(../images/main-banner.jpg);
+}
+
+
+
+
 
 
 

@@ -263,17 +263,56 @@ display: block;
     background-image: url(../images/vision.jpg);
     width: 100%;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    display: flex;
+    justify-content: center;
     
+}
 
-    
+.vision-content {
+    margin: 1.5rem 0;
+}
+
+.our-vision h2 {
+    font-size: 3rem;
+    font-weight: 600;
 }
 
 
 
 
 
+/*****************************************************I will continue this later ****************************************/
 
 
+/* **************************************** TEAM ***********************************/ 
 
+.our-team {
+    width: calc(100%-20px);
+}
 
+.our-team h2 {
+    font-size: 3rem;
+    margin: 1.5rem 0;
+    font-weight: 600;
+}
+
+.team-card h2 {
+    font-size: 3rem;
+    margin: 1.5rem 0;
+    font-weight: 600;
+}
+
+.team-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.team-card img {
+    width: 100%; /*img width equal to parent container's width*/
+    height: auto;
+    display: block;
+}
 

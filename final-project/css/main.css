@@ -159,7 +159,7 @@ nav a {
     margin-bottom: 1.5rem;
 }
 
-.hero-text button {
+.hero-text button { 
     background-color: #c78c06;
     font-size: 1.5rem;
     outline: none;
@@ -167,6 +167,13 @@ nav a {
     cursor: pointer;
     height: 5rem;
     padding: 0 1.5rem;
+}
+
+
+/*About us section*/
+.about-us {
+    background-color: #ffe6ac;
+    width: 100%;
 }
 
 

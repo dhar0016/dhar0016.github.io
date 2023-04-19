@@ -76,3 +76,37 @@ nav a {
     border: none;
     font-size: 17px;
 }
+
+/*
+.search-container button {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 8px;
+    font-size: 17px;
+    cursor: pointer;
+}
+*/
+
+
+.nav-item {
+    padding: 20px 0;
+    color: #c78c06;
+    text-align: center;
+}
+
+.nav-item a {
+    color: #c78c06;
+    font-size: 1.5rem;
+}
+
+/*nav bg */
+.nav-item:hover {
+    background-color: #c78c06;
+}
+
+
+
+
+
+

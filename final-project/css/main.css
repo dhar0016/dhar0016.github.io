@@ -599,6 +599,25 @@ nav a {
     margin-left: 1.5rem;
 }
 
-/************************ TEAM SECTION**************************************8/
+/************************ TEAM SECTION**************************************/
 
+.team-card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr)
+}
 
+.column:nth-child(even) img {
+    order: 1;
+}
+
+.team-card img {
+    width 100%;
+    height: auto;
+    display: block;
+}
+
+.team-card {
+    margin-bottom: 0;
+}
+
+/********************SERVICE ***************************/

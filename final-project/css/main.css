@@ -147,6 +147,27 @@ nav a {
     color: white;
 }
 
+.hero-text h1 {
+    font-size: 3.25rem;
+    font-weight: 600;
+    line-height: 1;
+}
+
+.hero-text p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+}
+
+.hero-text button {
+    background-color: #c78c06;
+    font-size: 1.5rem;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    height: 5rem;
+    padding: 0 1.5rem;
+}
 
 
 

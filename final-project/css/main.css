@@ -536,3 +536,57 @@ nav a {
 
 /***************************************** BANNER SECTION ***********************************************************/
 
+.hero {
+    background-image: url(../images/main-banner.jpg);
+    height: 700px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-back {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 70px 0;
+}
+
+.hero-text { /*content*/
+    margin: 1.5rem;
+    color: #fff;
+}
+
+.hero-text h1 { 
+    font-size: 6.25rem;
+    font-weight: 600;
+}
+
+.hero-text p {
+    font-weight: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+}
+
+/*
+.hero-text button {
+    background-color: #c78c06;
+    font-size: 1.5rem;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    height: 7rem;
+    padding: 0 1.5rem;
+}
+
+*/
+
+
+/************************************ ABOUT US ***********************************************/
+.about-us {
+    display: flex;
+    justify-content: center;
+
+}
+
+

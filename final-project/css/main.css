@@ -418,5 +418,56 @@ team-card h2 {
 
 
 /************************************* COMPANY INFORMATION ************************************************************/
+table,
+td,
+th {
+    border: 1px solid;
+
+}
+
+th {
+    background-color: #ffe6ac;
+}
+
+.contact-us {
+    width: calc(100% - 20px);
+}
+
+.contact-us table {
+    border-collapse: collapse;
+}
+
+.contact-us table {
+    width: 100%;
+    margin-bottom: 1.5rem;
+}
+
+td,
+th {
+    padding: 1rem;
+}
+
+/*********************************************** FOOTER **********************************************/
+
+footer {
+    background-color: #222;
+    color: #c78c06;
+}
+
+footer.container a { /*Unsplash*/
+    color: #a43ab9;
+    text-decoration: underline;
+}
+
+footer .container p:first-child {
+    margin-bottom: 1.5rem;
+}
 
 
+/*Media query for screen sizes of 690px and under*/
+@media  and (max-width: 960px) {
+    .nav-item a {
+        font-size: 1rem;
+    }
+    
+}

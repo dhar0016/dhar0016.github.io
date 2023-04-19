@@ -126,7 +126,37 @@ nav a {
 /*Banner Section*/
 .hero {
     background-image: url(../images/main-banner.jpg);
+    height: 700px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    
 }
+
+.hero-back {
+    background-color: black (0,0,0,0.5);
+    margin: 70px; 0;
+
+}
+
+.hero-text {
+    margin: 1.5rem;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 

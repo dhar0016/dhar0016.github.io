@@ -65,7 +65,12 @@ nav a {
     width: 100%;
 }
 
-.search-container input[type="text"] {
+.search-container form {
+    display: flex;
+    width: 100%;
+}
+
+.search-container input[type="text"] { /*Container for search */
     flex: 1;
     padding: 8px;
     border: none;

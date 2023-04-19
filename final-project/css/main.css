@@ -316,3 +316,34 @@ display: block;
     display: block;
 }
 
+.team-card {
+    background-color: #ffe6ac;
+    margin-bottom: 1.5rem;
+
+}
+
+team-card h2 {
+    font-size: 3rem;
+    margin: 1.5rem 0;
+    font-weight: 600;
+}
+
+.team-text {
+    padding: 10px;
+}
+
+.team-text h2 {
+    font-size: 3rem;
+    margin: 1.5rem 0;
+    font-weight: 600;
+}
+
+.team-text .title {
+    border-bottom: 2px solid #c78c06;
+    padding: 5px 0;
+}
+
+
+/****************************************************** CONTACT SECTION ***************************************************/
+
+

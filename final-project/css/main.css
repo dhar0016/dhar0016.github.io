@@ -185,7 +185,8 @@ nav a {
 
 /*css styles - about section*/
 .about-img {
-   
+/*Set the image width equal to parent container width*/
+width: 100%;
 
 }
 
